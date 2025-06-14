@@ -8,13 +8,9 @@ Write a simple program which will read the file and report:
 - which managers earn less than they should, and by how much
 - which managers earn more than they should, and by how much
 - which employees have a reporting line which is too long, and by how much
-Key points:
-• use only Java SE (any version), and Junit (any version) for tests.
-• use maven for project structure and build
-• your application should read data from a file and print out output to console. No GUIs needed.
-• code will be assessed on correctness, simplicity, readability and cleanliness
-• If you have any doubts make a sensible assumption and document it
-When you're ready with your assignment please send us link to an online code repository (github, bitbucket, etc.) so we can review your code.
+
+Sample data
+
 Id,firstName,lastName,salary,managerId
 123,Joe,Doe,60000,
 124,Martin,Chekov,45000,123
